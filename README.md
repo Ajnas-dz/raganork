@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F7001E&size=25&lines=CHINJUMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+Ajnas-dz)](https://git.io/typing-svg)
 
 
-  <a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="400" width="300" /></a>
 </p>
   
   <p align="center">
