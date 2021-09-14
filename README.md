@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="180" width="300" /></a>
+<a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="180" width="100" /></a>
 </p>
   
 <div align="center">
