@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F7001E&size=25&lines=CHINJUMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+Ajnas-dz)](https://git.io/typing-svg)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
 </p>
   
   <p align="center">
@@ -27,9 +27,9 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
   <a href="httsp://github.com/Ajnas-dz/CHINJUMWOL">
     <img src="https://img.shields.io/github/repo-size/Ajnas-dz/CHINJUMWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Ajnas-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajnas-dz?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Ajnas-dz/CHINJUMWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajnas-dz/CHINJUMWOL?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Ajnas-dz/CHINJUMWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajnas-dz/CHINJUMWOL?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
+<a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="180" width="300" /></a>
 </p>
   
 <div align="center">
@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/G18G7QjUqi6GqkWvUwre4u)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
 
 
     
@@ -77,7 +77,7 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
 ```
 യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
 ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, Raganork എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
+തീർച്ചയായും, Ajnas-dz എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
 അസേന സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
 ```
