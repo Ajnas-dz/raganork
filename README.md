@@ -85,9 +85,9 @@ Project created by <a href="https://github.com/Ajnas-dz">Ajnas-dz</a> to make it
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![souravkl11](https://github.com/Ajnas-dz.png?size=100)](https://github.com/Ajnas-dz) 
 ----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
+   [CHINJUMWOL PUBLIC BOT](https://github.com/Ajnas-dz) 
 Base, Bug Fixes, Modules
   </div>
    
